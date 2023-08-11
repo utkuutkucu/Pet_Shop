@@ -1,0 +1,19 @@
+h1{
+    color: #FF6000;
+    list-style-position: inside;
+    text-align: center;
+}
+body{
+    background-color: #F4F2DE;
+    list-style-position: inside;text-align: center;
+}
+h2{
+    color: #FC2947;
+}
+h3{
+    color: #4F709C;
+}
+h4{
+    text-align: left;
+    color:#FF8787 ;
+}
